@@ -96,6 +96,15 @@ a:hover {
     margin-left: 25%;
 }
 
+.image-resize-mode{
+    width: 18%;
+}
+
+.text-center{
+    font-size: 16px;
+}
+
+
 .b-parallax {
     background-attachment: fixed;
 }
