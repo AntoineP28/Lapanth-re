@@ -72,10 +72,6 @@ a:hover {
     background-size: auto!important;
 }
 
-.bg-repeat {
-    background: repeat;
-}
-
 .bg-t-edge {
     background: top no-repeat;
 }
@@ -167,9 +163,6 @@ a:hover {
 .d-bloc h1 a:hover,
 .d-bloc h2 a:hover,
 .d-bloc h3 a:hover,
-.d-bloc h4 a:hover,
-.d-bloc h5 a:hover,
-.d-bloc h6 a:hover,
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
 }
